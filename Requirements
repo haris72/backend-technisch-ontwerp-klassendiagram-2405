@@ -1,0 +1,23 @@
+User stories
+1. Als medewerker wil ik in het systeem hulp_apparatuur (remotes, wallbrackets en cimodules) aan de televisie sets kunnen koppelen zodat de onderlinge combinaties getoond kunnen worden
+2. Als admin wil ik dat het systeem de onderscheid van de rollen kent zodat alleen de admins de users kunnen aanmaken en aanpassen.
+3. Als medewerker wil ik in het systeem de aantallen, prijzen, magazijnplek van de gekochte en verkochte producten kunnen zien zodat er managers rapportages gedraaid kunnen worden
+
+Functionele eisen
+1. Het systeem kan alle combinaties tussen TV en hulp-apparatuur laten zien.
+2. Het systeem kan laten zien hoeveel producten er gekocht en verkocht zijn.
+3. Het systeem kan laten zien hoeveel producten er per soort op voorraad zijn.
+4. Het systeem kan laten zien waar de producten in de magazijn staan.
+5. Het systeem kan laten zien hoeveel producten er nog besteld zijn.
+6. Het systeem kan laten zien wanneer welk product gekocht is.
+7. Het systeem kan tv's, remotes, wallbrackets en cimodules en hun specs opvragen en bewerken.
+8. Het systeem kent de rollen admin en gewone users met de bijbehorende rechten.
+9. De admins kunnen persoonelsleden kunnen aanmaken/opvragen/aanpassen.
+10. Het systeem kan managers rapportages uitdraaien.
+
+Niet-Functionele eisen
+1. Pas na 15 minuten idle time de gebruiker automatisch laten uitloggen.
+2. Applicatie bij het inloggen onthoudt de plek van de laatste sessie.
+3. Applicatie kan 1000 gebruikers tegelijkertijd aan zonder snelheidsverlies.
+4. Er is documentatie beschikbaar die beschrijft hoe ontwikkelaars de data van onze databases kunnen opvragen via de API (ondersteuning).
+5. Het systeem moet gevoelige data aanvallen kunnen afweren.
